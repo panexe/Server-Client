@@ -1,0 +1,16 @@
+D:\Users\Uwe\Documents\(Schule)\Lehrgang_Neu\(BG TI)\(13BGTI-Q3) Prozessautomatisierung\Skript\(TF2) 05 Plz-Client-Server\Plz-Client-Console\bin\Debug\Plz-Client-Console.exe.config
+D:\Users\Uwe\Documents\(Schule)\Lehrgang_Neu\(BG TI)\(13BGTI-Q3) Prozessautomatisierung\Skript\(TF2) 05 Plz-Client-Server\Plz-Client-Console\bin\Debug\Plz-Client-Console.exe
+D:\Users\Uwe\Documents\(Schule)\Lehrgang_Neu\(BG TI)\(13BGTI-Q3) Prozessautomatisierung\Skript\(TF2) 05 Plz-Client-Server\Plz-Client-Console\bin\Debug\Plz-Client-Console.pdb
+D:\Users\Uwe\Documents\(Schule)\Lehrgang_Neu\(BG TI)\(13BGTI-Q3) Prozessautomatisierung\Skript\(TF2) 05 Plz-Client-Server\Plz-Client-Console\obj\Debug\Plz-Client-Console.exe
+D:\Users\Uwe\Documents\(Schule)\Lehrgang_Neu\(BG TI)\(13BGTI-Q3) Prozessautomatisierung\Skript\(TF2) 05 Plz-Client-Server\Plz-Client-Console\obj\Debug\Plz-Client-Console.pdb
+D:\(13BGTI-Q3) Prozessautomatisierung\Skript\(TF2) 05 Plz-Client-Server\Plz-Client-Console\bin\Debug\Plz-Client-Console.exe.config
+D:\(13BGTI-Q3) Prozessautomatisierung\Skript\(TF2) 05 Plz-Client-Server\Plz-Client-Console\obj\Debug\Plz-Client-Console.exe
+D:\(13BGTI-Q3) Prozessautomatisierung\Skript\(TF2) 05 Plz-Client-Server\Plz-Client-Console\obj\Debug\Plz-Client-Console.pdb
+D:\(13BGTI-Q3) Prozessautomatisierung\Skript\(TF2) 05 Plz-Client-Server\Plz-Client-Console\bin\Debug\Plz-Client-Console.exe
+D:\(13BGTI-Q3) Prozessautomatisierung\Skript\(TF2) 05 Plz-Client-Server\Plz-Client-Console\bin\Debug\Plz-Client-Console.pdb
+D:\(TF2) 05 Plz-Client-Server\Plz-Client-Console\bin\Debug\Plz-Client-Console.exe.config
+D:\(TF2) 05 Plz-Client-Server\Plz-Client-Console\obj\Debug\Plz-Client-Console.exe
+D:\(TF2) 05 Plz-Client-Server\Plz-Client-Console\obj\Debug\Plz-Client-Console.pdb
+D:\(TF2) 05 Plz-Client-Server\Plz-Client-Console\bin\Debug\Plz-Client-Console.exe
+D:\(TF2) 05 Plz-Client-Server\Plz-Client-Console\bin\Debug\Plz-Client-Console.pdb
+D:\(TF2) 05 Plz-Client-Server\Plz-Client-Console\obj\Debug\Plz-Client-Console.csprojResolveAssemblyReference.cache

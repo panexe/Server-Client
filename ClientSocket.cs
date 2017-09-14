@@ -8,6 +8,7 @@ namespace __ClientSocket__
 {
     class ClientSocket
     {
+    	// Test Kommentar
         private string host = "";
         private int port = 0;
         private Socket socket = null;

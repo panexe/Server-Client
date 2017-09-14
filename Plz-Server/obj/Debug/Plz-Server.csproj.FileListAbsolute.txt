@@ -15,3 +15,9 @@ D:\(TF2) 05 Plz-Client-Server\Plz-Server\bin\Debug\Plz-Server.pdb
 D:\(TF2) 05 Plz-Client-Server\Plz-Server\obj\Debug\Plz-Server.csprojResolveAssemblyReference.cache
 D:\(TF2) 05 Plz-Client-Server\Plz-Server\obj\Debug\Plz-Server.exe
 D:\(TF2) 05 Plz-Client-Server\Plz-Server\obj\Debug\Plz-Server.pdb
+D:\SC-Projekt\Plz-Server\bin\Debug\Plz-Server.exe.config
+D:\SC-Projekt\Plz-Server\bin\Debug\Plz-Server.exe
+D:\SC-Projekt\Plz-Server\bin\Debug\Plz-Server.pdb
+D:\SC-Projekt\Plz-Server\obj\Debug\Plz-Server.csprojResolveAssemblyReference.cache
+D:\SC-Projekt\Plz-Server\obj\Debug\Plz-Server.exe
+D:\SC-Projekt\Plz-Server\obj\Debug\Plz-Server.pdb

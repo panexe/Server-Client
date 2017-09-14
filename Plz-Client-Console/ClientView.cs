@@ -21,8 +21,11 @@ namespace Plz_Client_Console
             Console.WriteLine("1 - Hole Anzahl Datensätze");
             Console.WriteLine("2 - Hole Name durch PLZ");
             Console.WriteLine("3 - Hole PLZ durch Name");
+            Console.ForegroundColor = ConsoleColor.DarkRed;
             Console.WriteLine("9 - Programmende");
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.Write("Ihre Auswahl> ");
+            Console.ForegroundColor = ConsoleColor.White;
         }
 
         public void zeigeAnzahlDatensaetze(int anzahl)
@@ -32,10 +35,17 @@ namespace Plz_Client_Console
 
         public void zeigeName(string plz , string name)
         {
+            if (plz == "NOT FOUND" || name == "NOT FOUND")
+                Console.ForegroundColor = ConsoleColor.Red;
+            else { Console.ForegroundColor = ConsoleColor.Green; }
             Console.WriteLine("Die Stadt " + name + " hat die PLZ " + plz);
+            Console.ForegroundColor = ConsoleColor.White;
         }
         public void zeigePLZ(string plz, string name)
         {
+            if (plz == "NOT FOUND" || name == "NOT FOUND")
+                Console.ForegroundColor = ConsoleColor.Red;
+            else { Console.ForegroundColor = ConsoleColor.Green; }
             Console.WriteLine("Die PLZ " + plz + " gehört zur Stadt " + name);
         }
     }

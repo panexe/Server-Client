@@ -76,6 +76,7 @@ namespace Plz_Client_Console
 
             // Auswahl lesen
             string read = Console.ReadLine();
+            Console.Clear();
             int a;
             if(int.TryParse(read,out a))
             do
